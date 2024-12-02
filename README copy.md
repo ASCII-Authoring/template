@@ -16,6 +16,12 @@ Get up to date with the latest AsciiDoc syntax and features by reading the [Asci
 
 ## Features
 
+
+
+
+
+
+
 Book authoring experience provides the following features with this repository:
 - Table of Contents (TOC) generation.
 - Template prelude chapters: A `Preface`, and a `Forward`.
