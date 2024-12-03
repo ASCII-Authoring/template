@@ -11,9 +11,6 @@ we be calling `fastify.listen()` instead?
 
 Docker allows to package the full stack in a container:
 
-
-
-
 * OS
 ** Windows
 ** Ubuntu
@@ -21,3 +18,4 @@ Docker allows to package the full stack in a container:
 * App server
 * Application with its configuration
 * test
+* 123
