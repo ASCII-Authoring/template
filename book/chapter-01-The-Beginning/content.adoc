@@ -1,7 +1,7 @@
 = The Beginning
 
 My name is {author}.
-Some text
+Peter Alexander der Beste 
 
 [.text-center]
 _The future is here, but some people are still using legacy databases._
