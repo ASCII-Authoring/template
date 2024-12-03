@@ -67,7 +67,7 @@ const start = async () => {
   try {
     await fastify.listen({ port: 3000 }) // <.>
   } catch (err) {
-    fastify.log.error(err)
+    fastify.log.error(err)// <.>
     process.exit(1)
   }
 }
@@ -75,6 +75,7 @@ start()
 ----
 <.> Declare a GET route at /
 <.> Run the server!
+<.> xx
 
 Also considering styling the book's source code highlight
 using:
